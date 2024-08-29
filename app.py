@@ -1,6 +1,6 @@
-import streamlet as st
-from text blob import TextBlob
-from Google Transimport Translator
+import streamlit as st
+from textblob import TextBlob
+from googletrans import Translator
 
 # Inicializar el traductor
 translator = Translator()
